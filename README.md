@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrekimani1
 - 👀 I’m interested in learning and attaining knowledge on software engineering and development
-- 🌱 I’m currently learning python and java in Kenya
+- 🌱 I’m currently learning app and web development in Kenya as a student.
 - 💞️ I’m looking to collaborate on team projects and get to understand more on the field.
 - 📫 How to reach me? Send me an email to andrekimani2@gmail.com
 
